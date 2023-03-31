@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutter_mock_web_server/mock_web_server.dart';
+import 'package:flutter_mock_web_server/flutter_mock_web_server.dart';
 import 'package:http/http.dart' as http;
 import 'package:test/test.dart';
 
