@@ -1,5 +1,5 @@
 name: flutter_mock_web_server
-description: A null-safe mock_web_server package for Dart and Flutter
+description: flutter_mock_web_server is a null-safe package allowing for easy mocking tests for Dart and Flutter development, targeting developers who need to test their HTTP clients without relying on external sources.
 version: 1.0.0
 homepage: https://github.com/jandrop/flutter_mock_web_server
 
